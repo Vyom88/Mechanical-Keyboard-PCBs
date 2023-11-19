@@ -1,2 +1,2 @@
 # Keyboard-PCBs
-Created a 60% Keyboard Pcb using a microcontroller, crystal oscillator, capacitors, etc.
+A 60% keyboard PCB built using KiCad with a microcontroller, crystal oscillator, capacitors, etc.
